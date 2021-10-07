@@ -4,4 +4,4 @@
 
 #### You can't make a decision? Let the dice speak for you:
 
-                                    🎲[Demo]("https://marias-dice.netlify.app/")
+ [Demo]("https://marias-dice.netlify.app/")
