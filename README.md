@@ -4,4 +4,3 @@
 
 #### You can't make a decision? Let the dice speak for you:
 
-                                      🎲[Demo]()
